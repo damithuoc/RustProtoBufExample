@@ -1,7 +1,7 @@
 [package]
 name = "grpc_example"
 version = "0.1.0"
-authors = ["Sajith Nandasena <sajith@zmessenger.mobi>"]
+authors = ["Sajith Nandasena "]
 
 [dependencies]
 protobuf = "1.4.1"
